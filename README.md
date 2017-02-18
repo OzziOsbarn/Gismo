@@ -1,1 +1,2 @@
 # Gismo
+Git help config
