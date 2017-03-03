@@ -1,2 +1,0 @@
-# Gismo
-Git help config
